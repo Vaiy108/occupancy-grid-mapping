@@ -22,7 +22,7 @@ This project demonstrates key concepts required for **Perception / Sensor Fusion
 ## 🎥 Demo
 
 ### 🔁 Mapping Process (GIF)
-![Mapping Animation](results/map_animation.gif)
+[![Mapping Animation](results/map_animation.gif)](results/map_animation.gif)
 
 ### 🗺️ Final Occupancy Map
 ![Final Map](results/final_map.png)
