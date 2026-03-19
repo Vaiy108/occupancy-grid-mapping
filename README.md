@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project implements a **2D Occupancy Grid Mapping (OGM)** pipeline — a fundamental component in modern **robotics, autonomous driving, and perception systems**.
 
@@ -142,7 +142,7 @@ The system successfully reconstructs the environment by:
 
 - Handling sensor noise
 
-🔧 Future Improvements
+## 🔧 Future Improvements
 
 - Robot motion model (dynamic mapping)
 
