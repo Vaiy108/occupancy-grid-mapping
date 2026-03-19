@@ -25,7 +25,7 @@ This project demonstrates key concepts required for **Perception / Sensor Fusion
 ![Mapping Animation](https://raw.githubusercontent.com/Vaiy108/occupancy-grid-mapping/main/results/map_animation.gif)
 
 <p align="center">
-<img src="[docs/demo_uav.gif](https://raw.githubusercontent.com/Vaiy108/occupancy-grid-mapping/main/results/map_animation.gif)" width="350"/>
+<img src= "results/map_animation.gif" width="350"/>
 </p>
 
 ###  Final Occupancy Map
