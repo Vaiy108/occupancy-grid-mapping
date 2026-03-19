@@ -34,9 +34,7 @@ This project demonstrates key concepts required for **Perception / Sensor Fusion
 ### ✔ Probabilistic Mapping (Log-Odds)
 The occupancy grid uses a **log-odds representation**:
 ```
-\[
-L(x) = \log \frac{P(x)}{1 - P(x)}
-\]
+$L(x) = \log \frac{P(x)}{1 - P(x)}$
 ```
 This enables:
 - Numerically stable updates  
