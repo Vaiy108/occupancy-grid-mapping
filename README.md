@@ -107,7 +107,7 @@ Lidar Simulator → Ray Tracing → Inverse Sensor Model → Log-Odds Update →
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 All parameters are configurable via:
 
@@ -132,7 +132,7 @@ pip install -r requirements.txt
 python src/main.py
 python src/create_gif.py
 ```
-📊 Results
+## Results
 
 The system successfully reconstructs the environment by:
 
@@ -154,22 +154,9 @@ The system successfully reconstructs the environment by:
 
 - Real-world datasets (KITTI, ROS bags)
 
-## Author
-**Vasan Iyer**  
-Sensor Fusion Engineer / Autonomous systems / Embedded systems  
-Focus: Computer Vision, Sensor Fusion, Autonomous Systems
 
-🎯 Relevance to Industry Roles
 
-##This project demonstrates skills directly applicable to:
-
-- Perception / Sensor Fusion Engineer
-
-- Autonomous Driving Systems
-
-- Robotics Mapping & Localization
-
-##Key competencies:
+## Key competencies:
 
 - Probabilistic modeling
 
@@ -180,3 +167,9 @@ Focus: Computer Vision, Sensor Fusion, Autonomous Systems
 - Sensor modeling
 
 - Algorithm implementation
+
+
+## Author
+**Vasan Iyer**  
+Sensor Fusion Engineer / Autonomous systems / Embedded systems  
+Focus: Computer Vision, Sensor Fusion, Autonomous Systems
