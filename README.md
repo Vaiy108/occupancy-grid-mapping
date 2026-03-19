@@ -1,4 +1,4 @@
-# 🧭 Occupancy Grid Mapping using Probabilistic Sensor Models
+# Occupancy Grid Mapping using Probabilistic Sensor Models
 
 *A Python implementation of Bayesian Occupancy Grid Mapping using simulated Lidar data.*
 
@@ -19,17 +19,17 @@ This project demonstrates key concepts required for **Perception / Sensor Fusion
 
 ---
 
-## 🎥 Demo
+## Demo
 
-### 🔁 Mapping Process (GIF)
+###  Mapping Process (GIF)
 ![Mapping Animation](https://raw.githubusercontent.com/Vaiy108/occupancy-grid-mapping/main/results/map_animation.gif)
 
-### 🗺️ Final Occupancy Map
+###  Final Occupancy Map
 ![Final Map](results/final_map.png)
 
 ---
 
-## 🧠 Key Concepts Implemented
+##  Key Concepts Implemented
 
 ### ✔ Probabilistic Mapping (Log-Odds)
 The occupancy grid uses a **log-odds representation**:
@@ -44,7 +44,7 @@ This enables:
 
 ---
 
-### ✔ Inverse Sensor Model
+###  Inverse Sensor Model
 
 For each Lidar beam:
 
@@ -54,7 +54,7 @@ For each Lidar beam:
 
 ---
 
-### ✔ Ray Tracing (Bresenham Algorithm)
+###  Ray Tracing (Bresenham Algorithm)
 
 Efficient grid traversal is performed using Bresenham’s line algorithm to:
 
@@ -63,7 +63,7 @@ Efficient grid traversal is performed using Bresenham’s line algorithm to:
 
 ---
 
-### ✔ Sensor Simulation
+###  Sensor Simulation
 
 A configurable Lidar simulator generates:
 
@@ -75,7 +75,7 @@ This mimics real-world perception pipelines.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 Lidar Simulator → Ray Tracing → Inverse Sensor Model → Log-Odds Update → Occupancy Grid
 
