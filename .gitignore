@@ -1,0 +1,67 @@
+# ----------------------
+# Python cache / compiled files
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------
+# Virtual environments
+# ----------------------
+venv/
+.env/
+.venv/
+env/
+
+# ----------------------
+# Jupyter Notebook checkpoints (if used later)
+# ----------------------
+.ipynb_checkpoints/
+
+# ----------------------
+# OS-specific files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Editor / IDE files
+# ----------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+
+# ----------------------
+# Temporary files
+# ----------------------
+*.tmp
+*.temp
+
+# ----------------------
+# Python build artifacts
+# ----------------------
+build/
+dist/
+*.egg-info/
+
+# ----------------------
+# Test cache
+# ----------------------
+.pytest_cache/
+
+# ----------------------
+# Large result files (optional)
+# ----------------------
+# Uncomment if needed
+# results/*.png
+
+# ----------------------
+# Keep GIF for demo, ignore raw frames (recommended)
+# ----------------------
+results/map_frame_*.png

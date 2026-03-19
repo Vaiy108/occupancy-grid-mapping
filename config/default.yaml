@@ -1,0 +1,25 @@
+map:
+  width: 100
+  height: 100
+  resolution: 0.1
+  occ_prob: 0.9
+  free_prob: 0.3
+  l_min: -5.0
+  l_max: 5.0
+
+lidar:
+  num_rays: 181
+  max_range: 10.0
+  noise_std: 0.02
+
+simulation:
+  num_iterations: 50
+  obstacles:
+    - {x: 2.0, y: 3.0}
+    - {x: 4.0, y: -1.0}
+    - {x: -2.5, y: -3.0}
+    - {x: -3.5, y: 2.0}
+
+robot:
+  x: 0.0
+  y: 0.0
