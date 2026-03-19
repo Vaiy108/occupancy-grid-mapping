@@ -15,7 +15,7 @@ The system builds a probabilistic map of the environment using:
 - Log-odds Bayesian updates  
 - Ray tracing (Bresenham algorithm)  
 
-This project demonstrates key concepts required for **Perception / Sensor Fusion Engineer** roles.
+This project demonstrates key concepts required for **Perception / Sensor Fusion.
 
 ---
 
