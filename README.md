@@ -24,6 +24,8 @@ This project demonstrates key concepts required for **Perception / Sensor Fusion
 ### 🔁 Mapping Process (GIF)
 [![Mapping Animation](results/map_animation.gif)](results/map_animation.gif)
 
+![Mapping Animation](https://raw.githubusercontent.com/Vaiy108/occupancy-grid-mapping/main/results/map_animation.gif)
+
 ### 🗺️ Final Occupancy Map
 ![Final Map](results/final_map.png)
 
