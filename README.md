@@ -116,9 +116,8 @@ Lidar Simulator → Ray Tracing → Inverse Sensor Model → Log-Odds Update →
 
 All parameters are configurable via:
 
-https://github.com/Vaiy108/occupancy-grid-mapping/blob/main/config/default.yaml
+[config/default.yaml](https://github.com/Vaiy108/occupancy-grid-mapping/blob/main/config/default.yaml)
 
-config/default.yaml
 
 Includes:
 - Map size & resolution  
