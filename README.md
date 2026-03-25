@@ -116,9 +116,7 @@ Lidar Simulator → Ray Tracing → Inverse Sensor Model → Log-Odds Update →
 
 All parameters are configurable via:
 
-
 config/default.yaml
-
 
 Includes:
 - Map size & resolution  
