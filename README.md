@@ -146,6 +146,11 @@ The system successfully reconstructs the environment by:
 
 - Handling sensor noise
 
+### 🛠️ Tech Stack
+
+- Python
+- Matplotllib
+
 ## 🔧 Future Improvements
 
 - Robot motion model (dynamic mapping)
@@ -178,14 +183,26 @@ The system successfully reconstructs the environment by:
 - Uses simulated lidar data; real-world sensor noise and calibration not fully modeled
 - Robot pose is assumed known; no integration with SLAM or localization uncertainty
 - Map resolution and sensor model are fixed; not yet optimized for different environments
+
+  
 ### Future Work:
 - Extend to dynamic occupancy grid mapping for moving objects
 - Integrate with tracking and sensor fusion pipelines (radar + lidar)
 - Incorporate pose uncertainty (SLAM integration)
 - Improve sensor modeling and real-world robustness
 
+## 👤 Author
 
-## Author
 **Vasan Iyer**  
-Sensor Fusion Engineer / Autonomous systems / Embedded systems  
-Focus: Computer Vision, Sensor Fusion, Autonomous Systems
+Sensor Fusion / Autonomous Systems Engineer  
+
+Focus areas:
+- Sensor fusion & state estimation
+- Computer Vision  
+- Autonomous systems  
+- Flight dynamics & control  
+- Embedded systems (C++, Python)  
+- UAV systems & simulation  
+
+GitHub: https://github.com/Vaiy108
+
